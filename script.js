@@ -21,6 +21,9 @@ function validateForm(){
         alert("enter 10 digit ph.no");
         return false;
     }
+    if(true){
+        alert("form submitted successfully");
+    }
     return true;
 
 }
